@@ -81,7 +81,7 @@ global.AUTO_SEEN_STATUS = true
        ✨ BOT INFO SETTINGS ✨
 */
 // You Bots Owner Number 
-global.owner = ['923074060856'] 
+global.owner = ['923440848085'] 
 //👇 Your Caption ( Image Video )
 global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 🥰 👑𝙕𝙚𝙚𝙨𝙝𝙖𝙣 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙈𝙖𝙨𝙩𝙚𝙧✯❣️👑 ²⁰²⁴'
 //👇 Your Bot Name
