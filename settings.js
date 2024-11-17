@@ -31,7 +31,7 @@ const chalk = require('chalk')
 //👇 if you need seen massage use " true " , මැසේජ් සීන් කරන්න ඔනි නම් true දාන්න ඔනි නැත්තම් false දාන්න
 global.READ_MASSAGE = false
 //👇 enable DISABLE Girls Voice Reply , Auto Voice Reply යවන්න ඔනි නම් true දාන්න 
-global.VOICE_REPLY = false
+global.VOICE_REPLY = true
 //👇 Do you want show time on your bio use "true" want DISABLE use "false" , ස්වයං ක්‍රීය Bio එක ඔනි නම් true දාන්න
 global.AUTO_BIO = false
 //👇 Inbox massage block PM block , ඉන්බොක් බ්ලොක් 
@@ -52,9 +52,9 @@ global.BLOCK_CMD_MESSAGE_SEND = false
 //👇 Send Auto reply , sticker , voice Use true and costemize your own 
 global.AUTO_FUNCTION = true
 //👇 Put Bot Offline
-global.BOT_OFFLINE = true
+global.BOT_OFFLINE = false
 //👇 Only PreFix [ true / false ]
-global.ONLY_PREFIX = true
+global.ONLY_PREFIX = false
 //👇 This uplaod youtube videos without limit ⚠️ if you use this you must have paid sever
 global.UPLOAD_MAX = true
 //👇 Desabale Bot inbox ඉන්බොක්ස් බ්ලොක් නොවී වැඩ නොකරන්නනම් 
@@ -68,7 +68,7 @@ global.INBOX_ONLY_WORK = false
 //👇 Auto ChatGPT ( You Must put CHATGPT API KEY For use this )
 global.AUTO_OPEN_AI = false
 //👇 Bot On Privet
-global.PRIVET_BOT = true
+global.PRIVET_BOT = false
 //👇 DISABLE Bot Commands But Others Are Working 
 global.DISABLE_COMMANDS = false
 //👇 DISABLE Bot Commands On Message Send On Off
@@ -83,11 +83,11 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['923074060856'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 🥰 👑𝐙𝐀𝐈𝐍✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏❣️👑 ²⁰²⁴'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 🥰 👑𝙕𝙚𝙚𝙨𝙝𝙖𝙣 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙈𝙖𝙨𝙩𝙚𝙧✯❣️👑 ²⁰²⁴'
 //👇 Your Bot Name
-global.botnma =  '👑𝐙𝐀𝐈𝐍❣️👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏 𝛁' 
+global.botnma =  '👑𝙕𝙚𝙚𝙨𝙝𝙖𝙣 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙈𝙖𝙨𝙩𝙚𝙧❣️👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏 𝛁' 
 //👇 Your name
-global.ownernma =  '👑𝐙𝐀𝐈𝐍❣️👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏𝙏' 
+global.ownernma =  '👑𝙕𝙚𝙚𝙨𝙝𝙖𝙣 𝙨𝙤𝙛𝙩𝙬𝙖𝙧𝙚 𝙈𝙖𝙨𝙩𝙚𝙧❣️👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏𝙏' 
 //👇 Sticker Author Name
 global.packname =  '👑𝐙𝐀𝐈𝐍❣️👑✯𝐃𝐀𝐑𝐊🖤𝐇𝐄𝐀𝐑𝐓✯𝘽𝙊𝙏' 
 //👇 Inbox Block Massage 
